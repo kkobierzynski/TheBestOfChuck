@@ -26,4 +26,5 @@ Project contains small SQLite database:
 Function uses local variables such as:
 - SQLite connection string
 - Private API key
+
 To be able to use function correctly it is necessary to provide those variables in file local.settings.json. Inside "Values" add "API_KEY" and inside ConnectionStrings add "SQLiteConnectionString" with path to database from project
