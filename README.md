@@ -6,7 +6,7 @@ contain any duplicated quotes.
 
 ## Data base:
 Project contains small SQLite database:
-![image](https://user-images.githubusercontent.com/66009631/215284647-2432b73b-63e3-43f7-9e45-67472b08299e.png)
+![image](https://user-images.githubusercontent.com/66009631/215285524-d4380154-b667-4f67-8156-270de6029bfd.png)
 
 
 ## Most important libraries used in project
